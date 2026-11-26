@@ -23,7 +23,7 @@ content:
       - name: author
         label: Author
         type: string
-        default: Hadi Faheem Farooqi
+        default: Hadi
       - name: tags
         label: Tags
         type: string
