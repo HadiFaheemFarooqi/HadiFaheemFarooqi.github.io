@@ -2,3 +2,5 @@ title: Blog
 description: My blog on various topics and things.
 theme: jekyll-theme-hacker
 future: true
+plugins:
+  - jekyll-sitemap
