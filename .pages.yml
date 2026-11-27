@@ -20,6 +20,9 @@ content:
         label: Date
         type: date
         required: true
+        options:
+          time: true
+          format: yyyy-MM-dd HH:mm:ss
       - name: author
         label: Author
         type: string
